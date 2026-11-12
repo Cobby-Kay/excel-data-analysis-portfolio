@@ -12,7 +12,7 @@ building data analysis skills in Excel, SQL and beyond.
 - **Key finding:** 481 of 1,000 customers (48%) bought a bike
 - [Open the folder](bike-buyers/)
 
-![Bike Buyers Dashboard](bike-buyers/dashboard.png)
+
 
 ### 2. Superstore Sales Dashboard
 - **Dataset:** 9,800 order lines, about $2.26M in sales
