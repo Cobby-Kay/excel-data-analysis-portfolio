@@ -31,4 +31,4 @@ Pivot tables, slicers, dashboards, charts, data cleaning
 
 ## Contact
 - Email: appiahsamuelcobby34@gmail.com
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/samuel-appiah-
